@@ -1,0 +1,9 @@
+---------------------------------------------------------------
+[ 2020-05-21T12:57:17+08:00 ] 127.0.0.1 POST 127.0.0.1:8089/PVcamexCnK.php/auth/admin/add?dialog=1
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'company_id' doesn't have a default value
+---------------------------------------------------------------
+[ 2020-05-21T13:00:25+08:00 ] 127.0.0.1 POST 127.0.0.1:8089/PVcamexCnK.php/auth/admin/add?dialog=1
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'company_id' doesn't have a default value
+---------------------------------------------------------------
+[ 2020-05-21T13:23:45+08:00 ] 127.0.0.1 POST 127.0.0.1:8089/PVcamexCnK.php/test_main/add?dialog=1
+[ error ] [4096]Object of class app\admin\controller\TestMain could not be converted to string
